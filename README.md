@@ -1,0 +1,1 @@
+# Meteor project proof of concept for geometry problem solving
